@@ -1,5 +1,5 @@
 Healtho - Fix Your Health
-Workout app in Flutter
+The Workout App is your ultimate fitness companion, designed with a sleek and intuitive interface using Flutter. Whether you're a beginner starting your fitness journey or a seasoned athlete looking to optimize your workouts, this app provides all the tools you need to stay motivated and achieve your fitness goals.
 
 ## Demo
 <p align="center">
