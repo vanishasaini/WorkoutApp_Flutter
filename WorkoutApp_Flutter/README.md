@@ -1,4 +1,4 @@
-# Flutter / Healtho
+Healtho - Fix Your Health
 Workout app in Flutter
 
 ## Demo
